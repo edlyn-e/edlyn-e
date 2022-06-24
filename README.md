@@ -2,7 +2,7 @@
 <p>
   <i>noun</i> /ed-lin/
   <br>
-  It's kind of like Evelyn, except with a 'd' instead of a 've'. 
+  Creative young individual with an eye for style.
 </p>
 
 <p>Software Developer in the making with _nology!</p>
