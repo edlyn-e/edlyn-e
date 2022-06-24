@@ -14,17 +14,22 @@
 <a href="mailto:edlyn.evangelista@outlook.com"> 
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-<!--
-**edlyn-e/edlyn-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
+<br>
+<details>
+  <summary> About me </summary>
+ 
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+  <summary> Tech Stacks/Skills </summary>
+ 
+</details>
+
+
+<details>
+  <summary> My Projects </summary>
+ 
+</details>
