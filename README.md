@@ -2,10 +2,8 @@
 <p>
   <i>noun</i> /ed-lin/
   <br>
-  Creative young individual with an eye for style.
+  Software Developer in the making with _nology!
 </p>
-
-<p>Software Developer in the making with _nology!</p>
 
 ### Connect with me
 
