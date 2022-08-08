@@ -25,10 +25,10 @@ In my journey so far, I have learned to value progress over perfection. Learning
 
 ## Let's get connected!
 
-<a href="https://www.linkedin.com/in/edlyn-evangelista/">
+<a href="https://www.linkedin.com/in/edlyn-evangelista/" target="#blank">
   <img src="./assets/icons8-linkedin-2-100.png" width = 30px />
 </a>
-<a href="mailto:edlyn.evangelista@outlook.com"> 
+<a href="mailto:edlyn.evangelista@outlook.com" target="#blank"> 
   <img src="./assets/icons8-microsoft-outlook-2019-96.png" width = 30px />
   </a>
 
