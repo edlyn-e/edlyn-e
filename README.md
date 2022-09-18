@@ -15,8 +15,7 @@ In my journey so far, I have learned to value progress over perfection. Learning
 
 ## Tech stack
 
-<img src="./assets/icons8-git-100.png" width = 40px />
-<img src="./assets/icons8-github-100.png" width = 40px />
+<img src="./assets/icons8-git-100.png" width = 40px /> <img src="./assets/icons8-github-100.png" width = 40px />
 <img src="./assets/icons8-html-5-100.png" width = 40px />
 <img src="./assets/icons8-css3-100.png" width = 40px />
 <img src="./assets/icons8-sass-100.png" width = 40px />
