@@ -25,7 +25,11 @@ In my journey so far, I have learned to value progress over perfection. Learning
 <img src="./assets/icons8-sass-100.png" width = 40px />
 <img src="./assets/icons8-javascript-100.png" width = 40px />
 <img src="./assets/icons8-react-native-100.png" width = 40px />
-<!-- <img src="./" width = 40px /> -->
+<img src="./assets/icons8-firebase-96.png" width = 40px />
+<img src="./assets/icons8-java-96.png" width = 40px />
+<img src="./assets/icons8-mysql-logo-96.png" width = 40px />
+<img src="./assets/icons8-spring-logo-96.png" width = 40px />
+<!-- <img src="./assets" width = 40px /> -->
 
 _Icons from Icons8_
 
